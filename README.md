@@ -3,6 +3,6 @@
 ###Changing Categorial Attributes to Numerical (One Hot Encoding)
 ###K-means clustering
 ##Jaccard Joining
-###Token Cleansing
+###Token Cleaning
 ###Inverted Index Joining
 ###Filtering Based on Jaccard Similarity
